@@ -1,0 +1,6 @@
+centernet_resnet50_v2_512x512_coco17_tpu-8/
+data*
+custom_models*
+models
+
+.ipynb_checkpoints

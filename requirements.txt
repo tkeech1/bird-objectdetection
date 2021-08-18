@@ -1,0 +1,16 @@
+jupyterlab
+#torch
+#fastai
+#ipywidgets
+#fastbook
+graphviz
+matplotlib
+scipy
+numpy
+pandas
+sklearn
+youtube-dl
+opencv-python
+tf-slim
+pycocotools
+imageio
